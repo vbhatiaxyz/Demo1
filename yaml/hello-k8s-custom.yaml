@@ -31,4 +31,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Gitops and argocd 
+          value: Gitops and argocd and kubernates.
